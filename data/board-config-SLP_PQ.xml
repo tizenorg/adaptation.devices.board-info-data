@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<sys-info>
+  <default>
+    <key id="board.audio.amrwb" string="FALSE"/>
+    <key id="board.audio.mic" string="2"/>
+    <key id="board.audio.spk_type" string="MONO"/>
+    <key id="board.audio.spk_location" string="UPPER"/>
+    <key id="board.touch.tkey" string="FALSE"/>
+    <key id="board.display.width_mm" string="58"/>
+    <key id="board.display.height_mm" string="103"/>
+  </default>
+  <R000c>
+    <key id="board.audio.mic" string="3"/>
+    <key id="board.touch.tkey" string="TRUE"/>
+  </R000c>
+</sys-info>
